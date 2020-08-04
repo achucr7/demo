@@ -1,14 +1,93 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Adam",
+    "email": "Sincere@april.biz",
+    "phone": "945-865-5464",
+    "opening_sales": 345.7,
+    "closing_sales": 234.3,
+    "date": "03-08-2020"
+    
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "email": "Shanna@melissa.tv",
+    "phone": "945-865-5464",
+    "opening_sales": 387.76,
+    "closing_sales": 25.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "phone": "945-865-5464",
+    "opening_sales": 343.04,
+    "closing_sales": 222.34,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "email": "Julianne.OConner@kory.org",
+    "phone": "945-865-5464",
+    "opening_sales": 3555.3,
+    "closing_sales": 2346.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "email": "Lucio_Hettinger@annie.ca",
+    "phone": "945-865-5464",
+    "opening_sales": 34.7,
+    "closing_sales": 23.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "email": "Karley_Dach@jasper.info",
+    "phone": "945-865-5464",
+    "opening_sales": 869.5,
+    "closing_sales": 288.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "email": "Telly.Hoeger@billy.biz",
+    "phone": "945-865-5464",
+    "opening_sales": 455.7,
+    "closing_sales": 234.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "email": "Sherwood@rosamond.me",
+    "phone": "945-865-5464",
+    "opening_sales": 345.7,
+    "closing_sales": 234.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "email": "Chaim_McDermott@dana.io",
+    "phone": "945-865-5464",
+    "opening_sales": 345.7,
+    "closing_sales": 234.3,
+    "date": "03-08-2020"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "email": "Rey.Padberg@karina.biz",
+    "phone": "945-865-5464",
+    "opening_sales": 345.7,
+    "closing_sales": 234.3,
+    "date": "03-08-2020"
   }
-}
+]
